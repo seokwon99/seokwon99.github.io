@@ -33,29 +33,20 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Seoul National University",
+      "area": "Integrated PhD in IPAI",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "2024",
+      "endDate": "2029 (expected)",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Korea University",
+      "area": "B.S. in Computer Science and Engineering",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "startDate": "2018",
+      "endDate": "2024",
       "gpa": null,
       "courses": []
     }
