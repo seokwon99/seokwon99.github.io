@@ -10,3 +10,10 @@ branch: master
 #remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
+
+owner:
+  name: Seokwon Song
+  email: seokwon.song@vision.snu.ac.kr
+  github: seokwon99
+  linkedin: seokwon1999
+  blog: https://seokwon99.github.io/
