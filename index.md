@@ -3,7 +3,9 @@
 
 <p>
   I’m interested in natural language processing and multimodal learning, with a long-term goal of developing autonomous AI agents that can collaboratively discover new knowledge alongside humans.
-  
+</p>
+
+<p>
   I’m currently working on:
 
   * Large vision-language models
