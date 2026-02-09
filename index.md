@@ -2,7 +2,12 @@
 <p> I’m a Ph.D. student in the Interdisciplinary Program in Artificial Intelligence at Seoul National University, advised by <a href="https://vision.snu.ac.kr/gunhee/">Prof. Gunhee Kim</a> in the <a href="https://vision.snu.ac.kr/">Vision and Learning Lab</a>.</p>
 
 <p>
-  I’m interested in natural language processing and multimodal learning, with a long-term goal of developing autonomous AI agents that can collaboratively discover new knowledge alongside humans. I’m currently working on large (vision) language models, retrieval-augmented generation, and open-ended question answering.
+  I’m interested in natural language processing and multimodal learning, with a long-term goal of developing autonomous AI agents that can collaboratively discover new knowledge alongside humans.
+  
+  I’m currently working on:
+  - Large vision-language models
+  - Multimodal retrieval-augmented generation (RAG)
+  - Open-ended question answering.
 </p>
 
 <div style="height:15px;"></div>
