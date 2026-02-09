@@ -28,10 +28,28 @@
 <div style="height:15px;"></div>
 ---
 <div style="height:15px;"></div>
-### Publication
+### Publication (*: equal contribution)
+
 <p style="margin:0">
   <div style="display:flex; justify-content:space-between">
-  <a href="">Hybrid Deep Searcher: Scalable Parallel and Sequential Search Reasoning</a>
+  <a href="https://arxiv.org/abs/2511.12142">MAVIS: A Benchmark for Multimodal Source Attribution in Long-form Visual Question Answering</a>
+  </div>
+  Seokwon Song, Minsu Park, Gunhee Kim<br>
+  AAAI 2026
+</p>
+
+<p style="margin:0">
+  <div style="display:flex; justify-content:space-between">
+  <a href="https://arxiv.org/abs/2502.06086">Is a Peeled Apple Still Red? Evaluating LLMs' Ability for Conceptual Combination with Property Type</a>
+  </div>
+  Seokwon Song*, Taehyun Lee*, Jaewoo Ahn, Jae Hyuk Sung, Gunhee Kim <br>
+  NAACL 2025 (Oral)
+</p>
+
+
+<p style="margin:0">
+  <div style="display:flex; justify-content:space-between">
+  <a href="https://arxiv.org/abs/2308.14960">Read-only Prompt Optimization for Vision-Language Few-shot Learning</a>
   </div>
   Dongjun Lee*, Seokwon Song*, Jehee Suh, Junmyeong Choi, Sanghyeok Lee, Hyunwoo J. Kim<br>
   ICCV 2023
