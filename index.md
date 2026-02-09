@@ -95,6 +95,7 @@
 ---
 <div style="height:15px;"></div>
 ### Work Experience
+```
 <p>
   <div style="display:flex; justify-content:space-between">
     <a href="https://www.lgresearch.ai/">LG AI Research</a>
@@ -102,6 +103,7 @@
   </div>
   NLP Research Internship
 </p>
+```
 <p>
   <div style="display:flex; justify-content:space-between">
     <a href="https://www.lgresearch.ai/">LG AI Research</a>
