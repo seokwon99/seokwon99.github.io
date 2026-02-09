@@ -20,7 +20,7 @@
 <p style="margin:0">
   <div style="display:flex; justify-content:space-between">
     <a href="https://www.korea.edu/sites/en/index.do">Korea University</a>
-    <span> Mar 2018-Mar 2024</span>
+    <span> Mar 2018-Feb 2024</span>
   </div>
     <li style="margin-left: 12px;">B.S. in Computer Science and Engineering</li>
 </p>
@@ -28,7 +28,7 @@
 <div style="height:15px;"></div>
 ---
 <div style="height:15px;"></div>
-### Publication (*: equal contribution)
+### Publication (* equal contribution)
 
 <p style="margin:0">
   <div style="display:flex; justify-content:space-between">
@@ -62,7 +62,7 @@
   <div style="display:flex; justify-content:space-between">
   <a href="https://vision.snu.ac.kr/">
     Vision and Learning Lab, SNU</a>
-    <span style>Sep 2023–Present</span>
+    <span style>Oct 2023–Present</span>
   </div>
   Advised by Prof. Gunhee Kim
 </p>
@@ -80,7 +80,7 @@
   <div style="display:flex; justify-content:space-between">
   <a href="https://www.hyunwoojkim.com/">
     Machine Learning & Vision Lab, Korea University</a>
-    <span style>May 2022–Jan 2023</span>
+    <span style>May 2022–Dec 2022</span>
   </div>
   Advised by Prof. Hyunwoo J. Kim
 </p>
