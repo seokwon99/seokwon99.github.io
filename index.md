@@ -14,7 +14,7 @@
     <a href="https://www.snu.ac.kr/">Seoul National University</a>
     <span> Mar 2024-Present</span>
   </div>
-    <li style="margin-left: 12px;">Combined M.S. /Ph.D. of Interdisciplinary Program in Artificial Intelligence</li>
+    <li style="margin-left: 12px;">Combined M.S. / Ph.D. of Interdisciplinary Program in Artificial Intelligence</li>
 </p>
 
 <p style="margin:0">
@@ -29,13 +29,13 @@
 ---
 <div style="height:15px;"></div>
 ### Publication
-<!-- <p style="margin:0">
+<p style="margin:0">
   <div style="display:flex; justify-content:space-between">
   <a href="">Hybrid Deep Searcher: Scalable Parallel and Sequential Search Reasoning</a>
   </div>
-  Dayoon Ko, Jihyuk Kim, Haeju Park, <b>Sohyeon Kim</b>, Dahyun Lee, Yongrae Jo, Gunhee Kim, Moontae Lee, Kyungjae Lee<br>
-  ICLR 2026
-</p> -->
+  Dongjun Lee*, Seokwon Song*, Jehee Suh, Junmyeong Choi, Sanghyeok Lee, Hyunwoo J. Kim<br>
+  ICCV 2023
+</p>
 ---
 <div style="height:15px;"></div>
 ### Research Experience
