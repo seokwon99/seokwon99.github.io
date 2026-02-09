@@ -2,3 +2,10 @@
 ---
 
 @import "jekyll-theme-minimal";
+
+.icon {
+  width: 24px;   /* 아이콘 기본 크기 */
+  height: 24px;
+  margin: 0 6px; /* 아이콘 사이 간격 */
+  vertical-align: middle;
+}
