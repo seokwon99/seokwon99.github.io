@@ -7,10 +7,9 @@
 
 <p>
   I’m currently working on:
-
-  * Large vision-language models
-  * Multimodal retrieval-augmented generation (RAG)
-  * Open-ended question answering.
+  <li style="margin-left: 30px;">Large vision-language models</li>
+  <li style="margin-left: 30px;">Multimodal retrieval-augmented generation (RAG)</li>
+  <li style="margin-left: 30px;">Open-ended question answering</li>
 </p>
 
 <div style="height:15px;"></div>
