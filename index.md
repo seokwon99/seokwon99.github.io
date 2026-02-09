@@ -5,9 +5,10 @@
   I’m interested in natural language processing and multimodal learning, with a long-term goal of developing autonomous AI agents that can collaboratively discover new knowledge alongside humans.
   
   I’m currently working on:
-  - Large vision-language models
-  - Multimodal retrieval-augmented generation (RAG)
-  - Open-ended question answering.
+
+  * Large vision-language models
+  * Multimodal retrieval-augmented generation (RAG)
+  * Open-ended question answering.
 </p>
 
 <div style="height:15px;"></div>
