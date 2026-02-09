@@ -4,25 +4,9 @@ logo: /assets/img/seokwon_0209.jpg
 show_downloads: False
 google_analytics:
   id: G-1HX1ER5W3D
-
+# theme: jekyll-theme-minimal
 url: https://seokwon99.github.io
 branch: master
-
-plugins:
-  - jekyll-feed          # Auto-generate RSS feed
-  - jekyll-sitemap       # Auto-generate sitemap.xml
-  - jekyll-seo-tag       # Adds SEO meta tags & JSON-LD
-
-  
 #remote_theme: pages-themes/minimal@v0.2.0
-# theme: jekyll-theme-minimal
-# plugins:
-# - jekyll-remote-theme
-
-owner:
-  name: Seokwon Song
-  email: seokwon.song@vision.snu.ac.kr
-  github: seokwon99
-  linkedin: seokwon1999
-  blog: https://seokwon99.github.io/
-  scholar: https://scholar.google.co.kr/citations?user=lL_mybQAAAAJ&hl=ko
+plugins:
+- jekyll-remote-theme
