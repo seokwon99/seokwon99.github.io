@@ -21,7 +21,7 @@
     <a href="https://www.snu.ac.kr/">Seoul National University</a>
     <span> Mar 2024-Present</span>
   </div>
-    <li style="margin-left: 12px;">Combined M.S. / Ph.D. of Interdisciplinary Program in Artificial Intelligence</li>
+    <li style="margin-left: 30px;">Combined M.S. / Ph.D. of Interdisciplinary Program in Artificial Intelligence</li>
 </p>
 
 <p style="margin:0">
@@ -29,7 +29,7 @@
     <a href="https://www.korea.edu/sites/en/index.do">Korea University</a>
     <span> Mar 2018-Feb 2024</span>
   </div>
-    <li style="margin-left: 12px;">B.S. in Computer Science and Engineering</li>
+    <li style="margin-left: 30px;">B.S. in Computer Science and Engineering</li>
 </p>
 
 <div style="height:15px;"></div>
