@@ -90,7 +90,7 @@
 ### Work Experience
 <p>
   <div style="display:flex; justify-content:space-between">
-    LG AI Research
+    <a href="https://www.lgresearch.ai/">LG AI Research</a>
     <span style>Jan 2023–Sep 2023</span>
   </div>
   Internship at Language Lab
