@@ -1,123 +1,79 @@
+<div style="height:15px;"></div>
+<p> I’m a Ph.D. student in the Interdisciplinary Program in Artificial Intelligence at Seoul National University, advised by <a href="https://vision.snu.ac.kr/gunhee/">Prof. Gunhee Kim</a> in the Vision and Learning Lab.</p>
+
+<p>
+  I’m interested in natural language processing and multimodal learning, with a long-term goal of developing autonomous AI agents that can collaboratively discover new knowledge alongside humans. I’m currently working on large (vision) language models, retrieval-augmented generation, and open-ended question answering.
+</p>
+
+<div style="height:15px;"></div>
 ---
-layout: default
+<div style="height:15px;"></div>
+### Education
+<p style="margin:0">
+  <div style="display:flex; justify-content:space-between">
+    <a href="https://www.snu.ac.kr/">Seoul National University</a>
+    <span> Mar 2024-Present</span>
+  </div>
+    <li style="margin-left: 12px;">Combined M.S. /Ph.D. of Interdisciplinary Program in Artificial Intelligence</li>
+</p>
+
+<p style="margin:0">
+  <div style="display:flex; justify-content:space-between">
+    <a href="https://www.korea.edu/sites/en/index.do">Korea University</a>
+    <span> Mar 2018-Mar 2024</span>
+  </div>
+    <li style="margin-left: 12px;">B.S. in Computer Science and Engineering</li>
+</p>
+
+<div style="height:15px;"></div>
 ---
+<div style="height:15px;"></div>
+### Publication
+<!-- <p style="margin:0">
+  <div style="display:flex; justify-content:space-between">
+  <a href="">Hybrid Deep Searcher: Scalable Parallel and Sequential Search Reasoning</a>
+  </div>
+  Dayoon Ko, Jihyuk Kim, Haeju Park, <b>Sohyeon Kim</b>, Dahyun Lee, Yongrae Jo, Gunhee Kim, Moontae Lee, Kyungjae Lee<br>
+  ICLR 2026
+</p> -->
+---
+<div style="height:15px;"></div>
+### Research Experience
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+<p style="margin:0">
+  <div style="display:flex; justify-content:space-between">
+  <a href="https://vision.snu.ac.kr/">
+    Vision and Learning Lab, SNU</a>
+    <span style>Sep 2023–Present</span>
+  </div>
+  Advised by Prof. Gunhee Kim
+</p>
 
-[Link to another page](./another-page.html).
+<p style="margin:0">
+  <div style="display:flex; justify-content:space-between">
+  <a href="https://www.lgresearch.ai/">
+    Language Lab, LG AI Research</a>
+    <span style>Jan 2023–Sep 2023</span>
+  </div>
+  Mentored by Hyunkyung Bae
+</p>
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+<p style="margin:0">
+  <div style="display:flex; justify-content:space-between">
+  <a href="https://www.hyunwoojkim.com/">
+    Machine Learning & Vision Lab, Korea University</a>
+    <span style>May 2022–Jan 2023</span>
+  </div>
+  Advised by Prof. Hyunwoo J. Kim
+</p>
+<div style="height:15px;"></div>
+---
+<div style="height:15px;"></div>
+### Work Experience
+<p>
+  <div style="display:flex; justify-content:space-between">
+    LG AI Research
+    <span style>Jan 2023–Sep 2023</span>
+  </div>
+  Internship at Language Lab
+</p>
