@@ -98,7 +98,14 @@
 <p>
   <div style="display:flex; justify-content:space-between">
     <a href="https://www.lgresearch.ai/">LG AI Research</a>
+    <span style>Feb 2026–Present (Upcoming)</span>
+  </div>
+  NLP Research Internship
+</p>
+<p>
+  <div style="display:flex; justify-content:space-between">
+    <a href="https://www.lgresearch.ai/">LG AI Research</a>
     <span style>Jan 2023–Sep 2023</span>
   </div>
-  Internship at Language Lab
+  Software Engineering Internship at Language Lab
 </p>
