@@ -1,7 +1,7 @@
 ### About me
 
 <div style="height:15px;"></div>
-<p> I’m a Ph.D. student in the Interdisciplinary Program in Artificial Intelligence at Seoul National University, advised by <a href="https://vision.snu.ac.kr/gunhee/">Prof. Gunhee Kim</a> in the <a href="https://vision.snu.ac.kr/">Vision and Learning Lab</a>. In addition, I’m currently a NLP Research Scientist Intern at LG AI Research.</p>
+<p> I’m a Ph.D. student in the Interdisciplinary Program in Artificial Intelligence at Seoul National University, advised by <a href="https://vision.snu.ac.kr/gunhee/">Prof. Gunhee Kim</a> in the <a href="https://vision.snu.ac.kr/">Vision and Learning Lab</a>. In addition, I’m currently a NLP Research Scientist Intern at <a href="https://www.lgresearch.ai/">LG AI Research</a>.</p>
 
 <p>
   I’m interested in Natural Language Processing (NLP) and Multimodal Large Language Models (MLLMs), with a long-term goal of developing autonomous AI agents that can collaboratively discover <b>new knowledge alongside humans</b>.
