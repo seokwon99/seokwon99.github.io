@@ -53,6 +53,11 @@
       </header>
       <section>
 
+      <nav class="site-nav">
+        <a href="{{ "/" | absolute_url }}" class="nav-link {% if page.url == "/" %}active{% endif %}">About me</a>
+        <a href="{{ "/publications/" | absolute_url }}" class="nav-link {% if page.url == "/publications/" %}active{% endif %}">Publications</a>
+      </nav>
+
       {{ content }}
 
       </section>
