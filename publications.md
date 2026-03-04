@@ -15,6 +15,7 @@ permalink: /publications/
     <div class="pub-venue"><em>In AAAI</em>, 2026</div>
     <div class="pub-links">
       <a href="https://arxiv.org/abs/2511.12142" class="pub-btn">PDF</a>
+      <a href="https://github.com/seokwon99/MAVIS" class="pub-btn">Code</a>
     </div>
   </li>
   <li>
@@ -32,6 +33,7 @@ permalink: /publications/
     <div class="pub-venue"><em>In ICCV</em>, 2023</div>
     <div class="pub-links">
       <a href="https://arxiv.org/abs/2308.14960" class="pub-btn">PDF</a>
+      <a href="https://github.com/mlvlab/RPO" class="pub-btn">Code</a>
     </div>
   </li>
 </ol>
