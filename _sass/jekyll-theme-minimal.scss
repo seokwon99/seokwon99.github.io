@@ -186,8 +186,7 @@ strong {
 }
 
 section {
-  width:700px;
-  float:right;
+  margin-left:230px;
   padding-bottom:50px;
 }
 
@@ -221,6 +220,7 @@ footer {
     float:none;
     position:static;
     width:auto;
+    margin-left:0;
   }
 
   header {
