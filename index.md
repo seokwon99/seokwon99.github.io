@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ### About me
 
 <div style="height:15px;"></div>
