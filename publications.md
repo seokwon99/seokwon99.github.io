@@ -4,29 +4,22 @@ title: Publications
 permalink: /publications/
 ---
 
-### Publication (* equal contribution)
+> (*: equal contribution)
 
-<p style="margin:0">
-  <div style="display:flex; justify-content:space-between">
-  <a href="https://arxiv.org/abs/2511.12142">MAVIS: A Benchmark for Multimodal Source Attribution in Long-form Visual Question Answering</a>
-  </div>
-  <b>Seokwon Song</b>, Minsu Park, Gunhee Kim<br>
-  AAAI 2026
-</p>
+## Conference Paper
 
-<p style="margin:0">
-  <div style="display:flex; justify-content:space-between">
-  <a href="https://arxiv.org/abs/2502.06086">Is a Peeled Apple Still Red? Evaluating LLMs' Ability for Conceptual Combination with Property Type</a>
-  </div>
-  <b>Seokwon Song*</b>, Taehyun Lee*, Jaewoo Ahn, Jae Hyuk Sung, Gunhee Kim <br>
-  NAACL 2025 (Oral)
-</p>
+- [MAVIS: A Benchmark for Multimodal Source Attribution in Long-form Visual Question Answering](https://arxiv.org/abs/2511.12142) <br>
+  **Seokwon Song**, Minsu Park, Gunhee Kim <br>
+  The 40th Annual AAAI Conference on Artificial Intelligence <br>
+  Philadelphia, Pennsylvania. February, 2026
 
+- [Is a Peeled Apple Still Red? Evaluating LLMs' Ability for Conceptual Combination with Property Type](https://arxiv.org/abs/2502.06086) <br>
+  **Seokwon Song\***, Taehyun Lee\*, Jaewoo Ahn, Jae Hyuk Sung, Gunhee Kim <br>
+  The 2025 Annual Conference of the Nations of the Americas Chapter of the ACL <br>
+  Albuquerque, New Mexico. April, 2025 <br>
+  <span style="color:red">Oral Presentation</span>
 
-<p style="margin:0">
-  <div style="display:flex; justify-content:space-between">
-  <a href="https://arxiv.org/abs/2308.14960">Read-only Prompt Optimization for Vision-Language Few-shot Learning</a>
-  </div>
-  Dongjun Lee*, <b>Seokwon Song*</b>, Jehee Suh, Junmyeong Choi, Sanghyeok Lee, Hyunwoo J. Kim<br>
-  ICCV 2023
-</p>
+- [Read-only Prompt Optimization for Vision-Language Few-shot Learning](https://arxiv.org/abs/2308.14960) <br>
+  Dongjun Lee\*, **Seokwon Song\***, Jehee Suh, Junmyeong Choi, Sanghyeok Lee, Hyunwoo J. Kim <br>
+  IEEE/CVF International Conference on Computer Vision <br>
+  Paris, France. October, 2023
