@@ -8,18 +8,30 @@ permalink: /publications/
 
 ## Conference Paper
 
-- [MAVIS: A Benchmark for Multimodal Source Attribution in Long-form Visual Question Answering](https://arxiv.org/abs/2511.12142) <br>
-  **Seokwon Song**, Minsu Park, Gunhee Kim <br>
-  The 40th Annual AAAI Conference on Artificial Intelligence <br>
-  Singapore. January, 2026
-
-- [Is a Peeled Apple Still Red? Evaluating LLMs' Ability for Conceptual Combination with Property Type](https://arxiv.org/abs/2502.06086) <br>
-  **Seokwon Song\***, Taehyun Lee\*, Jaewoo Ahn, Jae Hyuk Sung, Gunhee Kim <br>
-  The 2025 Annual Conference of the Nations of the Americas Chapter of the ACL <br>
-  Albuquerque, New Mexico. April, 2025 <br>
-  <span style="color:red">Oral Presentation</span> (Acceptance = 245/3099)
-
-- [Read-only Prompt Optimization for Vision-Language Few-shot Learning](https://arxiv.org/abs/2308.14960) <br>
-  Dongjun Lee\*, **Seokwon Song\***, Jehee Suh, Junmyeong Choi, Sanghyeok Lee, Hyunwoo J. Kim <br>
-  IEEE/CVF International Conference on Computer Vision <br>
-  Paris, France. October, 2023
+<ol class="pub-list">
+  <li>
+    <div class="pub-title">MAVIS: A Benchmark for Multimodal Source Attribution in Long-form Visual Question Answering</div>
+    <div class="pub-author"><b>Seokwon Song</b>, Minsu Park, Gunhee Kim</div>
+    <div class="pub-venue"><em>In AAAI</em>, 2026</div>
+    <div class="pub-links">
+      <a href="https://arxiv.org/abs/2511.12142" class="pub-btn">PDF</a>
+    </div>
+  </li>
+  <li>
+    <div class="pub-title">Is a Peeled Apple Still Red? Evaluating LLMs' Ability for Conceptual Combination with Property Type</div>
+    <div class="pub-author"><b>Seokwon Song*</b>, Taehyun Lee*, Jaewoo Ahn, Jae Hyuk Sung, Gunhee Kim</div>
+    <div class="pub-venue"><em>In NAACL</em>, 2025 <span class="pub-badge">Oral</span></div>
+    <div class="pub-links">
+      <a href="https://arxiv.org/abs/2502.06086" class="pub-btn">PDF</a>
+      <a href="https://github.com/seokwon99/CCPT" class="pub-btn">Code</a>
+    </div>
+  </li>
+  <li>
+    <div class="pub-title">Read-only Prompt Optimization for Vision-Language Few-shot Learning</div>
+    <div class="pub-author">Dongjun Lee*, <b>Seokwon Song*</b>, Jehee Suh, Junmyeong Choi, Sanghyeok Lee, Hyunwoo J. Kim</div>
+    <div class="pub-venue"><em>In ICCV</em>, 2023</div>
+    <div class="pub-links">
+      <a href="https://arxiv.org/abs/2308.14960" class="pub-btn">PDF</a>
+    </div>
+  </li>
+</ol>
