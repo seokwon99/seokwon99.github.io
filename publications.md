@@ -10,6 +10,15 @@ permalink: /publications/
 
 <ol class="pub-list">
   <li>
+    <div class="pub-title">MULTI3IR: A Benchmark for Multi-perspective Multi-domain Multi-modal Information Retrieval</div>
+    <div class="pub-author"><b>Seokwon Song</b>, <a href="https://ohmyksh.github.io/" target="_blank">Sohyeon Kim</a>, <a href="https://vision.snu.ac.kr/gunhee" target="_blank">Gunhee Kim</a></div>
+    <div class="pub-venue"><em>In EMNLP</em>, 2026</div>
+    <div class="pub-links">
+      <a href="https://arxiv.org/abs/2608.30949" class="pub-btn">PDF</a>
+      <a href="https://github.com/seokwon99/Multi3IR" class="pub-btn">Code</a>
+    </div>
+  </li>
+  <li>
     <div class="pub-title">MAVIS: A Benchmark for Multimodal Source Attribution in Long-form Visual Question Answering</div>
     <div class="pub-author"><b>Seokwon Song</b>, <a href="https://0601p.github.io/" target="_blank">Minsu Park</a>, <a href="https://vision.snu.ac.kr/gunhee" target="_blank">Gunhee Kim</a></div>
     <div class="pub-venue"><em>In AAAI</em>, 2026</div>
