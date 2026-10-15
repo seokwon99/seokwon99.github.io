@@ -5,17 +5,17 @@ layout: default
 ### About me
 
 <div style="height:15px;"></div>
-<p> I’m a Ph.D. student in the Interdisciplinary Program in Artificial Intelligence at Seoul National University, advised by <a href="https://vision.snu.ac.kr/gunhee/">Prof. Gunhee Kim</a> in the <a href="https://vision.snu.ac.kr/">Vision and Learning Lab</a>. In addition, I’m currently a NLP Research Scientist Intern at <a href="https://www.lgresearch.ai/">LG AI Research</a>.</p>
+<p> I’m a Ph.D. student in the Interdisciplinary Program in Artificial Intelligence at Seoul National University, advised by <a href="https://vision.snu.ac.kr/gunhee/">Prof. Gunhee Kim</a> in the <a href="https://vision.snu.ac.kr/">Vision and Learning Lab</a>. I’m also currently a Research Intern at <a href="https://www.lgresearch.ai/">LG AI Research</a>.</p>
 
 <p>
-  I’m interested in Natural Language Processing (NLP) and Multimodal Large Language Models (MLLMs), with a long-term goal of developing autonomous AI agents that can collaboratively discover <b>new knowledge alongside humans</b>.
+  My research goal is to develop autonomous agents that can <b>search, read, and reason over real-world knowledge in collaboration with humans</b>. My research focuses on Natural Language Processing (NLP) and Multimodal Large Language Models (MLLMs).
 </p>
 
 <p>
-  I’m currently working on:
-  <li style="margin-left: 30px;">Large vision-language models</li>
-  <li style="margin-left: 30px;">Multimodal retrieval-augmented generation</li>
-  <li style="margin-left: 30px;">Open-ended question answering</li>
+  My recent research interests include:
+  <li style="margin-left: 30px;"><b>Document Agent</b>: generalist agents that plan and orchestrate multiple tools over documents</li>
+  <li style="margin-left: 30px;"><b>Multimodal Retrieval</b>: retrieval over visually rich documents and open-web sources</li>
+  <li style="margin-left: 30px;"><b>Multimodal RAG for Open-ended Generation</b>: grounding MLLMs in retrieved multimodal evidence</li>
 </p>
 
 <div style="height:15px;"></div>
