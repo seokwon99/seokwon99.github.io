@@ -1,0 +1,370 @@
+// Site layout: fixed dark sidebar on the left, single reading column on the right.
+
+$sidebar-width: 17rem;
+$sidebar-bg: #1b2430;
+$sidebar-text: rgba(255, 255, 255, 0.62);
+$sidebar-text-strong: #ffffff;
+$content-max: 42rem;
+$text: #3a3f47;
+$text-muted: #7a808a;
+$heading: #1b2430;
+$accent: #2a6f97;
+$accent-hover: #1d4f6e;
+$rule: #e6e8eb;
+$serif: "Lora", Georgia, "Times New Roman", serif;
+$sans: "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  overflow-y: scroll;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  background-color: #fff;
+  font: 16px/1.65 $sans;
+  color: $text;
+  font-weight: 400;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: $heading;
+  line-height: 1.2;
+  margin: 0 0 0.75rem;
+}
+
+p, ul, ol, table, pre, dl {
+  margin: 0 0 1.1rem;
+}
+
+a {
+  color: $accent;
+  text-decoration: none;
+}
+
+a:hover, a:focus {
+  color: $accent-hover;
+  text-decoration: underline;
+}
+
+strong, b {
+  color: $heading;
+  font-weight: 700;
+}
+
+img {
+  max-width: 100%;
+}
+
+hr {
+  border: 0;
+  height: 1px;
+  background: $rule;
+  margin: 1.5rem 0;
+}
+
+blockquote {
+  border-left: 3px solid $rule;
+  margin: 0 0 1.5rem;
+  padding: 0 0 0 1rem;
+  color: $text-muted;
+  font-style: italic;
+}
+
+code, pre {
+  font-family: Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  color: #333;
+}
+
+pre {
+  padding: 0.75rem 1rem;
+  background: #f8f8f8;
+  border-radius: 4px;
+  border: 1px solid $rule;
+  overflow-x: auto;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  text-align: left;
+  padding: 5px 10px;
+  border-bottom: 1px solid $rule;
+}
+
+// ---------------------------------------------------------------------------
+// Sidebar
+
+.sidebar {
+  background-color: $sidebar-bg;
+  color: $sidebar-text;
+  text-align: center;
+  padding: 2.5rem 1.5rem 2rem;
+}
+
+.sidebar-inner {
+  max-width: 22rem;
+  margin: 0 auto;
+}
+
+.sidebar a {
+  color: $sidebar-text-strong;
+  text-decoration: none;
+}
+
+.sidebar-photo {
+  display: inline-block;
+  margin-bottom: 1.25rem;
+}
+
+.sidebar-photo img {
+  display: block;
+  width: 8rem;
+  height: 8rem;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 3px solid rgba(255, 255, 255, 0.12);
+}
+
+.sidebar-name {
+  font-family: $serif;
+  font-weight: 600;
+  font-size: 1.9rem;
+  letter-spacing: -0.01em;
+  margin: 0 0 0.5rem;
+  color: $sidebar-text-strong;
+}
+
+.sidebar-lead {
+  font-size: 0.95rem;
+  line-height: 1.55;
+  margin: 0 0 1.75rem;
+}
+
+.sidebar-nav {
+  margin: 0 0 1.25rem;
+}
+
+.sidebar-nav-item {
+  display: block;
+  line-height: 1.9;
+  font-size: 1rem;
+  color: $sidebar-text;
+}
+
+.sidebar a.sidebar-nav-item {
+  color: rgba(255, 255, 255, 0.78);
+}
+
+.sidebar a.sidebar-nav-item:hover,
+.sidebar a.sidebar-nav-item:focus {
+  color: $sidebar-text-strong;
+  text-decoration: underline;
+}
+
+.sidebar a.sidebar-nav-item.active {
+  color: $sidebar-text-strong;
+  font-weight: 700;
+}
+
+.sidebar-links {
+  padding-top: 1rem;
+  border-top: 1px solid rgba(255, 255, 255, 0.12);
+}
+
+.sidebar-links .sidebar-nav-item {
+  font-size: 0.92rem;
+}
+
+.sidebar-footer {
+  font-size: 0.78rem;
+  color: rgba(255, 255, 255, 0.4);
+  margin: 1.5rem 0 0;
+}
+
+// ---------------------------------------------------------------------------
+// Content
+
+.content {
+  padding: 2.5rem 1.5rem 4rem;
+  max-width: $content-max;
+  margin: 0 auto;
+}
+
+.content h2,
+.content h3 {
+  font-family: $serif;
+  font-weight: 600;
+  color: $heading;
+}
+
+.content h2 {
+  font-size: 1.6rem;
+  margin: 0 0 1rem;
+}
+
+.content h3 {
+  font-size: 1.45rem;
+  margin: 0 0 0.9rem;
+}
+
+.content li {
+  margin-bottom: 0.2rem;
+}
+
+.content small {
+  font-size: 0.8rem;
+}
+
+// Right-hand date/period labels on the home page (flex rows in index.md)
+.content div[style*="space-between"] > span {
+  color: $text-muted;
+  white-space: nowrap;
+  flex-shrink: 0;
+  margin-left: 1rem;
+}
+
+// ---------------------------------------------------------------------------
+// Publications
+
+.pub-list {
+  padding-left: 1.4rem;
+  list-style: decimal;
+}
+
+.pub-list li {
+  margin-bottom: 1.6rem;
+  line-height: 1.55;
+}
+
+.pub-title {
+  font-weight: 700;
+  color: $heading;
+  font-size: 1rem;
+  margin-bottom: 2px;
+}
+
+.pub-author {
+  color: $text;
+  font-size: 0.92rem;
+  margin-bottom: 2px;
+}
+
+.pub-venue {
+  font-size: 0.92rem;
+  color: $text-muted;
+  margin-bottom: 6px;
+}
+
+.pub-badge {
+  display: inline-block;
+  background-color: $accent;
+  color: #fff;
+  font-size: 0.7rem;
+  font-weight: 600;
+  padding: 1px 8px;
+  border-radius: 999px;
+  margin-left: 4px;
+  vertical-align: middle;
+}
+
+.pub-links {
+  margin-top: 4px;
+}
+
+.pub-btn {
+  display: inline-block;
+  font-size: 0.78rem;
+  padding: 2px 10px;
+  border: 1px solid #d3d7dc;
+  border-radius: 4px;
+  color: $text;
+  text-decoration: none;
+  margin-right: 4px;
+}
+
+.pub-btn:hover,
+.pub-btn:focus {
+  color: $heading;
+  border-color: $text-muted;
+  text-decoration: none;
+}
+
+// ---------------------------------------------------------------------------
+// Wide screens: sidebar becomes a fixed full-height column
+
+@media (min-width: 48em) {
+  .sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: $sidebar-width;
+    text-align: left;
+    padding: 3rem 2rem 2rem;
+    overflow-y: auto;
+  }
+
+  .sidebar-inner {
+    max-width: none;
+    margin: 0;
+  }
+
+  .sidebar-photo img {
+    width: 7.5rem;
+    height: 7.5rem;
+  }
+
+  .content {
+    margin-left: $sidebar-width;
+    padding: 4rem 3rem 5rem;
+    max-width: calc(#{$sidebar-width} + #{$content-max} + 6rem);
+  }
+}
+
+@media (min-width: 64em) {
+  .content {
+    padding: 4.5rem 4rem 5rem;
+    max-width: calc(#{$sidebar-width} + #{$content-max} + 8rem);
+  }
+}
+
+// Narrow screens: inline the link lists so the sidebar stays short
+@media (max-width: 47.99em) {
+  .sidebar-nav-item {
+    display: inline-block;
+    margin: 0 0.6rem;
+  }
+
+  .sidebar-links {
+    border-top: 0;
+    padding-top: 0;
+  }
+
+  .content {
+    padding-top: 2rem;
+  }
+}
+
+@media print {
+  .sidebar {
+    position: static;
+    width: auto;
+    background: none;
+    color: #444;
+  }
+
+  .content {
+    margin: 0;
+    padding: 0.4in;
+    font-size: 12pt;
+    color: #444;
+  }
+}
