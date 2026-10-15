@@ -5,14 +5,14 @@ $sidebar-bg: #1b2430;
 $sidebar-text: rgba(255, 255, 255, 0.62);
 $sidebar-text-strong: #ffffff;
 $content-max: 42rem;
-$text: #3a3f47;
-$text-muted: #7a808a;
-$heading: #1b2430;
+$text: #111111;
+$text-muted: #6b7079;
+$heading: #222222;
 $accent: #2a6f97;
 $accent-hover: #1d4f6e;
 $rule: #e6e8eb;
-$serif: "Lora", Georgia, "Times New Roman", serif;
-$sans: "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+$serif: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
+$sans: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
 
 * {
   box-sizing: border-box;
@@ -26,14 +26,15 @@ html {
 body {
   margin: 0;
   background-color: #fff;
-  font: 16px/1.65 $sans;
+  font: 16px/1.6 $sans;
   color: $text;
-  font-weight: 400;
+  font-weight: 300;
 }
 
 h1, h2, h3, h4, h5, h6 {
   color: $heading;
   line-height: 1.2;
+  font-weight: 600;
   margin: 0 0 0.75rem;
 }
 
@@ -53,7 +54,7 @@ a:hover, a:focus {
 
 strong, b {
   color: $heading;
-  font-weight: 700;
+  font-weight: 600;
 }
 
 img {
@@ -135,8 +136,8 @@ th, td {
 
 .sidebar-name {
   font-family: $serif;
-  font-weight: 600;
-  font-size: 1.9rem;
+  font-weight: 500;
+  font-size: 1.8rem;
   letter-spacing: -0.01em;
   margin: 0 0 0.5rem;
   color: $sidebar-text-strong;
@@ -144,6 +145,7 @@ th, td {
 
 .sidebar-lead {
   font-size: 0.95rem;
+  font-weight: 300;
   line-height: 1.55;
   margin: 0 0 1.75rem;
 }
@@ -171,7 +173,7 @@ th, td {
 
 .sidebar a.sidebar-nav-item.active {
   color: $sidebar-text-strong;
-  font-weight: 700;
+  font-weight: 600;
 }
 
 .sidebar-links {
@@ -206,12 +208,12 @@ th, td {
 }
 
 .content h2 {
-  font-size: 1.6rem;
+  font-size: 1.5rem;
   margin: 0 0 1rem;
 }
 
 .content h3 {
-  font-size: 1.45rem;
+  font-size: 1.4rem;
   margin: 0 0 0.9rem;
 }
 
@@ -245,7 +247,7 @@ th, td {
 }
 
 .pub-title {
-  font-weight: 700;
+  font-weight: 600;
   color: $heading;
   font-size: 1rem;
   margin-bottom: 2px;
