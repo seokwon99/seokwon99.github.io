@@ -19,7 +19,7 @@ layout: default
 </p>
 
 <p>
-  Outside of research, I’m a first-year tennis player — still working on my backhand.
+  Outside of research, I’m a first-year tennis player 🎾 — currently working on my one-handed backhand and serve.
 </p>
 
 <div style="height:15px;"></div>
