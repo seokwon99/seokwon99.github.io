@@ -45,6 +45,15 @@ layout: default
 
 <p style="margin:0">
   <div style="display:flex; justify-content:space-between">
+  <a href="https://www.lgresearch.ai/">
+    LG AI Research</a>
+    <span style>Feb 2026–Present</span>
+  </div>
+  Mentored by Min Hyung Park
+</p>
+
+<p style="margin:0">
+  <div style="display:flex; justify-content:space-between">
   <a href="https://vision.snu.ac.kr/">
     Vision and Learning Lab, SNU</a>
     <span style>Oct 2023–Present</span>
