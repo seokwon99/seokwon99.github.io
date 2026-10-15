@@ -18,6 +18,10 @@ layout: default
   <li style="margin-left: 30px;"><b>Multimodal RAG for Open-ended Generation</b>: grounding MLLMs in retrieved multimodal evidence</li>
 </p>
 
+<p>
+  Outside of research, I’m a first-year tennis player — still working on my backhand.
+</p>
+
 <div style="height:15px;"></div>
 ---
 <div style="height:15px;"></div>
