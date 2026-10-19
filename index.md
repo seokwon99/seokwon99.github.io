@@ -16,6 +16,8 @@ layout: default
   <li style="margin-left: 30px;"><b>Document Agent</b>: generalist agents that plan and orchestrate multiple tools over documents</li>
   <li style="margin-left: 30px;"><b>Multimodal Retrieval</b>: retrieval over visually rich documents and open-web sources [<a href="https://seokwon99.github.io/Multi3IR/" target="_blank">Multi³IR</a>]</li>
   <li style="margin-left: 30px;"><b>Multimodal RAG for Open-ended Generation</b>: grounding MLLMs in retrieved multimodal evidence [<a href="https://arxiv.org/abs/2511.12142" target="_blank">MAVIS</a>]</li>
+  <li style="margin-left: 30px;"><b>Generalization</b>: adapting foundation models to unseen tasks and domains [<a href="https://arxiv.org/abs/2308.14960" target="_blank">RPO</a>]</li>
+  <li style="margin-left: 30px;"><b>Creativity</b>: understanding and generating novel combinations of concepts [<a href="https://arxiv.org/abs/2502.06086" target="_blank">CCPT</a>]</li>
 </p>
 
 <p>
