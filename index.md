@@ -14,8 +14,8 @@ layout: default
 <p>
   My recent research interests include:
   <li style="margin-left: 30px;"><b>Document Agent</b>: generalist agents that plan and orchestrate multiple tools over documents</li>
-  <li style="margin-left: 30px;"><b>Multimodal Retrieval</b>: retrieval over visually rich documents and open-web sources</li>
-  <li style="margin-left: 30px;"><b>Multimodal RAG for Open-ended Generation</b>: grounding MLLMs in retrieved multimodal evidence</li>
+  <li style="margin-left: 30px;"><b>Multimodal Retrieval</b>: retrieval over visually rich documents and open-web sources [<a href="https://seokwon99.github.io/Multi3IR/" target="_blank">Multi³IR</a>]</li>
+  <li style="margin-left: 30px;"><b>Multimodal RAG for Open-ended Generation</b>: grounding MLLMs in retrieved multimodal evidence [<a href="https://arxiv.org/abs/2511.12142" target="_blank">MAVIS</a>]</li>
 </p>
 
 <p>
