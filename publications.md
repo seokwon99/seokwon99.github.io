@@ -16,6 +16,7 @@ permalink: /publications/
     <div class="pub-links">
       <a href="https://arxiv.org/abs/2608.30949" class="pub-btn">PDF</a>
       <a href="https://github.com/seokwon99/Multi3IR" class="pub-btn">Code</a>
+      <a href="https://seokwon99.github.io/Multi3IR/" class="pub-btn">Project Page</a>
     </div>
   </li>
   <li>
