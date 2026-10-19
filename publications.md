@@ -27,6 +27,7 @@ permalink: /publications/
     <div class="pub-links">
       <a href="https://arxiv.org/abs/2511.12142" class="pub-btn">PDF</a>
       <a href="https://github.com/seokwon99/MAVIS" class="pub-btn">Code</a>
+      <a href="https://huggingface.co/datasets/seokwon99/MAVIS" class="pub-btn">Dataset</a>
     </div>
   </li>
   <li>
@@ -36,6 +37,7 @@ permalink: /publications/
     <div class="pub-links">
       <a href="https://arxiv.org/abs/2502.06086" class="pub-btn">PDF</a>
       <a href="https://github.com/seokwon99/CCPT" class="pub-btn">Code</a>
+      <a href="https://huggingface.co/datasets/seokwon99/CCPT_12.3K" class="pub-btn">Dataset</a>
     </div>
   </li>
   <li>
