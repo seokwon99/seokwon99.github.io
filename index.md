@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### About me
+### About me <span style="font-size:0.55em; font-weight:normal; vertical-align:middle;">[<a href="{{ '/assets/pdf/cv.pdf' | relative_url }}" target="_blank">CV</a>]</span>
 
 <div style="height:15px;"></div>
 <p> I’m a Ph.D. student in the Interdisciplinary Program in Artificial Intelligence at Seoul National University, advised by <a href="https://vision.snu.ac.kr/gunhee/">Prof. Gunhee Kim</a> in the <a href="https://vision.snu.ac.kr/">Vision and Learning Lab</a>. I’m also currently a Research Intern at <a href="https://www.lgresearch.ai/">LG AI Research</a>.</p>
