@@ -1,0 +1,142 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Seokwon Song CV</title>
+<style>
+  @page { size: Letter; margin: 0.5in 0.5in 0.6in 0.5in; }
+  html, body { margin: 0; padding: 0; }
+  body {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 11pt;
+    line-height: 1.25;
+    color: #000;
+  }
+  a { color: #0000ee; text-decoration: underline; }
+  .name { font-size: 24pt; font-weight: bold; margin: 0.15in 0 0 0; }
+  .contact { text-align: right; margin-top: -0.28in; line-height: 1.45; }
+  h2 {
+    font-size: 12.5pt; font-weight: bold; font-variant: small-caps; letter-spacing: 0.02em;
+    margin: 16pt 0 4pt 0; padding-bottom: 2pt; border-bottom: 0.6pt solid #444;
+  }
+  p { margin: 0 0 7pt 0; }
+  ul.about { list-style: none; padding-left: 0; margin: 0; }
+  ul.about li { margin: 0 0 7pt 0; }
+  ul.about li::before { content: "\2022\00a0\00a0"; }
+  .entry { margin: 3pt 0 10pt 0; }
+  .row { display: flex; justify-content: space-between; align-items: baseline; }
+  .row .l { flex: 1 1 auto; }
+  .row .r { flex: 0 0 auto; margin-left: 12pt; text-align: right; }
+  .sub { font-size: 10.5pt; }
+  .pub { margin: 3pt 0 11pt 0; }
+  .pub .r { font-size: 11pt; }
+  .pub .sub .r { font-size: 10pt; color: #888; font-style: italic; }
+  .service { margin: 0 0 11pt 0; }
+  .service ul { margin: 2pt 0 0 0; padding-left: 0; list-style: none; }
+  .service li { font-style: italic; font-size: 10.5pt; margin: 0 0 1pt 0; }
+  .service li::before { content: "\2022\00a0\00a0"; font-style: normal; }
+  .skills .row { margin-bottom: 2pt; }
+  b.me { font-weight: bold; }
+  .nobreak { page-break-inside: avoid; }
+</style>
+</head>
+<body>
+
+<div class="name">Seokwon Song</div>
+<div class="contact">
+  Seoul, Korea<br>
+  <a href="mailto:seokwon.song@vision.snu.ac.kr">seokwon.song@vision.snu.ac.kr</a><br>
+  (+82) 010-8078-1178<br>
+  <a href="https://seokwon99.github.io/">https://seokwon99.github.io/</a>
+</div>
+
+<h2>About Me</h2>
+<p style="margin-top:8pt">I am a Ph.D. student in the Interdisciplinary Program in Artificial Intelligence at Seoul National University, advised by <a href="https://vision.snu.ac.kr/gunhee/">Prof. Gunhee Kim</a> in the <a href="https://vision.snu.ac.kr/">Vision and Learning Lab</a>. I am also currently a Research Intern at <a href="https://www.lgresearch.ai/">LG AI Research</a>.</p>
+<p>My research goal is to build multimodal intelligence systems that search, read, and reason over real-world knowledge in collaboration with humans. I focus on how such systems acquire information from web sources and visually rich documents, and how multimodal large language models (MLLMs) ground their answers in that evidence. My recent research interests include:</p>
+<ul class="about">
+  <li><b>Multimodal Retrieval</b>: searching web and document sources for evidence that covers the diverse perspectives of open-ended queries</li>
+  <li><b>Visual Document Understanding &amp; RAG</b>: reading visually rich documents and grounding MLLMs in multimodal evidence for long-form, cited generation</li>
+  <li><b>Document Agent</b> (ongoing): generalist agents that plan and orchestrate multiple tools over documents</li>
+</ul>
+
+<h2>Education</h2>
+<div class="entry nobreak">
+  <div class="row"><span class="l"><b>Seoul National University</b></span><span class="r">Seoul, Korea</span></div>
+  <div class="row sub"><span class="l">Combined M.S. / Ph.D. of Interdisciplinary Program in Artificial Intelligence</span><span class="r"><i>Mar 2024 – Present</i></span></div>
+</div>
+<div class="entry nobreak">
+  <div class="row"><span class="l"><b>Korea University</b></span><span class="r">Seoul, Korea</span></div>
+  <div class="row sub"><span class="l">B.S. in Computer Science and Engineering</span><span class="r"><i>Mar 2018 – Feb 2024</i></span></div>
+</div>
+
+<h2>Research Appointments</h2>
+<div class="entry nobreak">
+  <div class="row"><span class="l">Language Lab @ LG AI Research</span><span class="r">Feb <i>2026 – Present</i></span></div>
+  <div class="sub"><i>Research Intern</i></div>
+</div>
+<div class="entry nobreak">
+  <div class="row"><span class="l">Vision &amp; Learning Lab @ Seoul National University</span><span class="r">Sep <i>2025 – Present</i></span></div>
+  <div class="sub"><i>Ph.D. Student (Advisor: Gunhee Kim)</i></div>
+</div>
+<div class="entry nobreak">
+  <div class="row"><span class="l">Vision &amp; Learning Lab @ Seoul National University</span><span class="r">Mar <i>2024 – Sep 2025</i></span></div>
+  <div class="sub"><i>M.S. Student (Advisor: Gunhee Kim)</i></div>
+</div>
+<div class="entry nobreak">
+  <div class="row"><span class="l">Language Lab @ LG AI Research</span><span class="r">Jan <i>2023 – Sep 2023</i></span></div>
+  <div class="sub"><i>Software Engineer Intern</i></div>
+</div>
+<div class="entry nobreak">
+  <div class="row"><span class="l">Machine Learning &amp; Vision Lab @ Korea University</span><span class="r"><i>May 2022 – Jan 2023</i></span></div>
+  <div class="sub"><i>Undergraduate Research Intern (Advisor: Hyunwoo J. Kim)</i></div>
+</div>
+
+<h2>Publications (*: equal contribution)</h2>
+<div class="pub nobreak">
+  <div class="row"><span class="l"><span style="color:#0000ee;text-decoration:underline">Every Tool Has Its Blind Spots: Building a Generalist Document Agent through Multi-Tool Orchestration</span></span><span class="r">Ongoing</span></div>
+  <div class="row sub"><span class="l"><b class="me">Seokwon Song</b>, Min Hyung Park, Young Rok Jang, Gyeonghun Kim, Gunhee Kim</span></div>
+</div>
+<div class="pub nobreak">
+  <div class="row"><span class="l"><a href="https://arxiv.org/abs/2608.30949">Multi3IR: A Benchmark for Multi-perspective Multi-domain Multi-modal Information Retrieval</a></span><span class="r">2026 EMNLP</span></div>
+  <div class="row sub"><span class="l"><i><b class="me">Seokwon Song</b>, Sohyeon Kim, Gunhee Kim</i></span><span class="r">Main (Acceptance = 2,719/17,669 ~ 15.4%)</span></div>
+</div>
+<div class="pub nobreak">
+  <div class="row"><span class="l"><a href="https://arxiv.org/abs/2511.12142">MAVIS: A Benchmark for Multimodal Source Attribution in Long-form Visual Question Answering</a></span><span class="r">2026 AAAI</span></div>
+  <div class="row sub"><span class="l"><i><b class="me">Seokwon Song</b>, Minsu Park, Gunhee Kim</i></span><span class="r">Poster (Acceptance = 4,167/23,680 ~ 17.6%)</span></div>
+</div>
+<div class="pub nobreak">
+  <div class="row"><span class="l"><a href="https://aclanthology.org/2025.naacl-long.456.pdf">Is a Peeled Apple Still Red? Evaluating LLMs' Ability for Conceptual Combination with Property Type</a></span><span class="r"><i>2025 NAACL</i></span></div>
+  <div class="row sub"><span class="l"><i><b class="me">Seokwon Song*</b>, Taehyun Lee*, Jaewoo Ahn, Jae Hyuk Sung, Gunhee Kim</i></span><span class="r">Oral (245/3099 ~ 7.9%)</span></div>
+</div>
+<div class="pub nobreak">
+  <div class="row"><span class="l"><a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Lee_Read-only_Prompt_Optimization_for_Vision-Language_Few-shot_Learning_ICCV_2023_paper.pdf">Read-only Prompt Optimization for Vision-Language Few-shot Learning</a></span><span class="r"><i>2023 ICCV</i></span></div>
+  <div class="row sub"><span class="l"><i>Dongjun Lee*, <b class="me">Seokwon Song*</b>, Jehee Suh, Junmyeong Choi, Sanghyeok Lee, Hyunwoo J. Kim</i></span><span class="r">Poster (2,160/8,260 ~ 26.2%)</span></div>
+</div>
+
+<h2>Academic Services</h2>
+<div class="service nobreak">
+  Conference Reviewer
+  <ul>
+    <li>ACL Rolling Review (2026.08)</li>
+    <li>NeurIPS (2026)</li>
+    <li>CVPR (2026)</li>
+    <li>AAAI (2026)</li>
+  </ul>
+</div>
+<div class="service nobreak">
+  Workshop Reviewer
+  <ul><li>ACL-SRW (2025)</li></ul>
+</div>
+<div class="service nobreak">
+  Teaching Assistant
+  <ul><li>Seoul National University - Probabilistic Graphical Models (2024)</li></ul>
+</div>
+
+<h2>Technical Strengths</h2>
+<div class="skills">
+  <div class="row"><span class="l">Coding</span><span class="r">Python, C++</span></div>
+  <div class="row"><span class="l">Others</span><span class="r"></span></div>
+</div>
+
+</body>
+</html>
