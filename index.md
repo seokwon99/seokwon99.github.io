@@ -8,13 +8,14 @@ layout: default
 <p> I’m a Ph.D. student in the Interdisciplinary Program in Artificial Intelligence at Seoul National University, advised by <a href="https://vision.snu.ac.kr/gunhee/">Prof. Gunhee Kim</a> in the <a href="https://vision.snu.ac.kr/">Vision and Learning Lab</a>. I’m also currently a Research Intern at <a href="https://www.lgresearch.ai/">LG AI Research</a>.</p>
 
 <p>
-  My research goal is to develop autonomous agents that can <b>search, read, and reason over real-world knowledge in collaboration with humans</b>. My research focuses on Natural Language Processing (NLP) and Multimodal Large Language Models (MLLMs).
+  My research goal is to build <b>multimodal intelligence systems that search, read, and reason over real-world knowledge in collaboration with humans</b>. I focus on how such systems acquire information from <b>web sources and visually rich documents</b>, and how Multimodal Large Language Models (MLLMs) ground their answers in that evidence.
 </p>
 
 <p>
   My recent research interests include:
-  <li style="margin-left: 30px;"><b>Document Agent</b>: generalist agents that plan and orchestrate multiple tools over documents</li>
-  <li style="margin-left: 30px;"><b>Multimodal Retrieval &amp; RAG</b>: retrieving visually rich documents and open-web evidence, and grounding MLLMs in it for open-ended generation [<a href="https://seokwon99.github.io/Multi3IR/" target="_blank">Multi³IR</a>, <a href="https://arxiv.org/abs/2511.12142" target="_blank">MAVIS</a>]</li>
+  <li style="margin-left: 30px;"><b>Multimodal Retrieval</b>: searching web and document sources for evidence that covers the diverse perspectives of open-ended queries [<a href="https://seokwon99.github.io/Multi3IR/" target="_blank">Multi³IR</a>]</li>
+  <li style="margin-left: 30px;"><b>Visual Document Understanding &amp; RAG</b>: reading visually rich documents and grounding MLLMs in multimodal evidence for long-form, cited generation [<a href="https://arxiv.org/abs/2511.12142" target="_blank">MAVIS</a>]</li>
+  <li style="margin-left: 30px;"><b>Document Agent</b> (ongoing): generalist agents that plan and orchestrate multiple tools over documents</li>
   <li style="margin-left: 30px;"><b>Generalization</b>: adapting foundation models to unseen tasks and domains [<a href="https://arxiv.org/abs/2308.14960" target="_blank">RPO</a>]</li>
   <li style="margin-left: 30px;"><b>Creativity</b>: understanding and generating novel combinations of concepts [<a href="https://arxiv.org/abs/2502.06086" target="_blank">CCPT</a>]</li>
 </p>
